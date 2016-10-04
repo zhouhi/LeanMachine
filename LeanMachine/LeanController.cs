@@ -6,9 +6,9 @@ namespace LeanMachine
 {
     public class LeanController
     {
-        private readonly List<Block> blocks;
-
-        private int currentThroughput;
+        public readonly List<Block> blocks;
+        public int HopNumber { get; set; }
+        public int currentThroughput;
 
         public LeanController()
         {
@@ -19,7 +19,6 @@ namespace LeanMachine
         {
             blocks.Add(new Block(capacity, new Queue(0)));
         }
-
         
         public void Reset()
         {
@@ -40,10 +39,7 @@ namespace LeanMachine
         public int CalculateTotalCycleTime()
         {
             return blocks.Select(x => x.GetCycleTime()).Sum();
-        }
-
-        public int HopNumber { get; set; }
-
+        }      
 
         public void PrintSystem()
         {

@@ -7,3 +7,10 @@ c:\users\zzhou16\documents\visual studio 2013\Projects\LeanMachine\LeanMachine\o
 C:\Users\zzhou16\Source\Repos\LeanMachine\LeanMachine\bin\Debug\LeanMachine.exe.config
 C:\Users\zzhou16\Source\Repos\LeanMachine\LeanMachine\obj\Debug\LeanMachine.exe
 C:\Users\zzhou16\Source\Repos\LeanMachine\LeanMachine\obj\Debug\LeanMachine.pdb
+D:\LeanSoftwareProjectMgmt\LeanMachine\LeanMachine\bin\Debug\LeanMachine.exe.config
+D:\LeanSoftwareProjectMgmt\LeanMachine\LeanMachine\bin\Debug\LeanMachine.exe
+D:\LeanSoftwareProjectMgmt\LeanMachine\LeanMachine\bin\Debug\LeanMachine.pdb
+D:\LeanSoftwareProjectMgmt\LeanMachine\LeanMachine\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\LeanSoftwareProjectMgmt\LeanMachine\LeanMachine\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\LeanSoftwareProjectMgmt\LeanMachine\LeanMachine\obj\Debug\LeanMachine.exe
+D:\LeanSoftwareProjectMgmt\LeanMachine\LeanMachine\obj\Debug\LeanMachine.pdb
