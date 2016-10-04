@@ -1,0 +1,9 @@
+c:\users\zzhou16\documents\visual studio 2013\Projects\LeanMachine\LeanMachine\bin\Debug\LeanMachine.exe.config
+c:\users\zzhou16\documents\visual studio 2013\Projects\LeanMachine\LeanMachine\bin\Debug\LeanMachine.exe
+c:\users\zzhou16\documents\visual studio 2013\Projects\LeanMachine\LeanMachine\bin\Debug\LeanMachine.pdb
+c:\users\zzhou16\documents\visual studio 2013\Projects\LeanMachine\LeanMachine\obj\Debug\LeanMachine.csprojResolveAssemblyReference.cache
+c:\users\zzhou16\documents\visual studio 2013\Projects\LeanMachine\LeanMachine\obj\Debug\LeanMachine.exe
+c:\users\zzhou16\documents\visual studio 2013\Projects\LeanMachine\LeanMachine\obj\Debug\LeanMachine.pdb
+C:\Users\zzhou16\Source\Repos\LeanMachine\LeanMachine\bin\Debug\LeanMachine.exe.config
+C:\Users\zzhou16\Source\Repos\LeanMachine\LeanMachine\obj\Debug\LeanMachine.exe
+C:\Users\zzhou16\Source\Repos\LeanMachine\LeanMachine\obj\Debug\LeanMachine.pdb
